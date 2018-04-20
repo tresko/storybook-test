@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component should render Button with text 1`] = `
+<button
+  className="sc-bdVaJa Zovcp"
+  onClick={[Function]}
+>
+  test
+</button>
+`;
